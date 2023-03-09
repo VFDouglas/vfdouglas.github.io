@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ...
-		- [LinkedIn]
-		- [Email](mailto:douglas.dvferreira@gmail.com)
+	- [LinkedIn]
+	- [Email](mailto:douglas.dvferreira@gmail.com)
 
 
 [LinkedIn]: https://linkedin.com/in/douglas-vicentini
